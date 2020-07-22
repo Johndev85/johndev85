@@ -12,7 +12,7 @@
     🎓 Student at @Platzi
     🏅 Member of @PlatziMaster
     🎮 Old school gamer
-       #Frontend #MEAN-Stack
+       #Frontend #MERN Stack
        #NuncaParesDeAprender
        
 - 🔭 I’m currently working as an Independent.
