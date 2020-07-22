@@ -1,16 +1,32 @@
-### Hi there 👋
 
 <!--
-**Johndev85/johndev85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Johndev85/johndev85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  ..
 -->
+
+### Hi there 👋
+
+```shell
+    I'm John Botero, Frontend Developer in training
+
+    💻 Systems technician
+    🎓 Student at @Platzi
+    🏅 Member of @PlatziMaster
+    🎮 Old school gamer
+       #Frontend #MEAN-Stack
+       #NuncaParesDeAprender
+       
+- 🔭 I’m currently working as an Independent.
+- 🌱 I’m currently learning the path of Web Development.
+- 👯 I am looking to collaborate in communities and innovation projects on the web.
+- 💬 Ask me about web development, games, sci fi movies, trekking, alternative music.
+```
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johndev85&show_icons=true&theme=merko)
+
+#### 📫 How to reach me: 
+  - LinkedIn: https://www.linkedin.com/in/johnboterogarcia
+  - Email:    john.botero@outlook.es
+
+  
+
+
+
