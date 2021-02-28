@@ -15,8 +15,8 @@
        #Frontend #MERN Stack
        #NuncaParesDeAprender
        
-- 🔭 I’m currently working as an Independent.
-- 🌱 I’m currently learning the path of Web Development.
+- 🔭 I’m currently working as a Frontend Developer.
+- 🌱 I’m currently learning the path of Web and gaming development.
 - 👯 I am looking to collaborate in communities and innovation projects on the web.
 - 💬 Ask me about web development, games, sci fi movies, trekking, alternative music.
 ```
