@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 ```shell
-    I'm John Botero, Frontend Developer in training
+    I'm John Botero, Frontend Developer
 
     💻 Systems technician
     🎓 Student at @Platzi
