@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 ```shell
-    I'm John Botero, Frontend Developer
+    I'm John Botero, Software Engineer in MELI
 
     💻 Systems technician
     🎓 Student at @Platzi
@@ -15,8 +15,8 @@
        #Frontend #MERN Stack
        #NuncaParesDeAprender
        
-- 🔭 I’m currently working as a Frontend Developer.
-- 🌱 Continuous learning about web development and blockchain technologies.
+- 🔭 I’m currently working as a Full Stack Developer.
+- 🌱 Continuous learning about web development, IA and blockchain technologies.
 - 👯 I am looking to collaborate in communities and innovation projects on the web.
 - 💬 Ask me about web development, games, sci fi movies, trekking, alternative music.
 ```
